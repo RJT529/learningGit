@@ -1,0 +1,8 @@
+git clone https://github.com/RJT529/demo    
+cd demo
+git config --global user.email "Your email address"
+git config --global user.name "Your username"
+git add filename
+git commit -m "adding files"
+git pull
+git pushgit 
