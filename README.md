@@ -1,2 +1,1 @@
-# demo
-just a demo file
+Get acquainted with git
